@@ -1,2 +1,2 @@
 # README
-Coming SOon
+Coming Soon
