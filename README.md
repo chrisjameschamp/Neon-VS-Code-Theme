@@ -23,15 +23,18 @@
 
 ## Install
 
+Navigate to your VS Code extensions folder.
+
+On **Linux** and **MacOS** go to `~/.vscode/extensions/`
+On **Windows** go to `%USERPROFILE%\.vscode\extensions`
+
+Clone the repor from github
+
 ```sh
 git clone https://github.com/semaj4712/Neon-VS-Code-Theme.git
 ```
 
-## Usage
-
-```sh
-Once the repo has been cloned to your extensions folder you should be able to select it as a theme from Settings > Workbench > Apperance > Color Scheme > Neon theme.
-```
+Once the repo has been cloned to your extensions folder you should be able to select it as a theme from `Settings > Workbench > Apperance > Color Scheme > Neon theme`
 
 ## Author
 
